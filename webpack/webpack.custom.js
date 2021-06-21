@@ -20,7 +20,7 @@ module.exports = (config, options, targetOptions) => {
       }),
       new FriendlyErrorsWebpackPlugin(),
       new WebpackNotifierPlugin({
-        title: 'Iswapp',
+        title: 'IswappPRUEBA',
         contentImage: path.join(__dirname, 'logo-jhipster.png'),
       })
     );
